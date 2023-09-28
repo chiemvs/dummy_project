@@ -1,0 +1,3 @@
+~/Documents/EnvManager/environment_setup.sh -j TESTVENV
+~/dummy_project/start_jupyter_dummy.sh
+
